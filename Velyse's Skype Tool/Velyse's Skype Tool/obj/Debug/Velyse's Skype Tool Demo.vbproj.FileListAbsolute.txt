@@ -1,0 +1,30 @@
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Demo.vbproj.ResolveComReference.cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Demo.vbproj.GenerateResource.Cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse_s_Skype_Tool.VelysesSkypeTool.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse_s_Skype_Tool.Resources.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\MetroFramework.Design.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\MetroFramework.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\MetroFramework.Fonts.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\Interop.SKYPE4COMLib.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\AxInterop.SKYPE4COMLib.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse_s_Skype_Tool.Form1.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse_s_Skype_Tool.Form2.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Demo.vbprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse_s_Skype_Tool.Form3.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse_s_Skype_Tool.Form4.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\Velyse's Skype Tool Pre-Alpha.exe.config
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\Velyse's Skype Tool Pre-Alpha.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\Velyse's Skype Tool Pre-Alpha.pdb
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\Velyse's Skype Tool Pre-Alpha.xml
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Pre-Alpha.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Pre-Alpha.xml
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Pre-Alpha.pdb
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Velyse's Skype Tool\Velyse's Skype Tool\bin\Debug\New folder 2\Velyse's Skype Tool Pre-Alpha.exe.config
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Demo.vbproj.ResolveComReference.cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Pre-Alpha.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Pre-Alpha.xml
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Velyse's Skype Tool\Velyse's Skype Tool\obj\Debug\Velyse's Skype Tool Pre-Alpha.pdb
